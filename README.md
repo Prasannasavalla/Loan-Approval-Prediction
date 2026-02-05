@@ -72,25 +72,25 @@ This project focuses on:
 
 \### Distribution of Dependents
 
-!\[Dependents](outputs/dependents\_distribution.png)
+!\[Dependents](outputs/Dependents_Distribution.png)
 
 
 
 \### Income vs Education
 
-!\[Income Education](outputs/income\_vs\_education.png)
+!\[Income Education](outputs/Income_vs_Education.png)
 
 
 
 \### CIBIL Score Distribution
 
-!\[CIBIL](outputs/cibil\_distribution.png)
+!\[CIBIL](outputs/CIBIL_Score_Distribution.png)
 
 
 
 \### Correlation Heatmap
 
-!\[Correlation](outputs/correlation\_heatmap.png)
+!\[Correlation](outputs/Corelation_Matrix_heatmap.png)
 
 
 
